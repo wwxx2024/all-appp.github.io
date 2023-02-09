@@ -1,5 +1,6 @@
-## Updated at: 2022-02-25
+## Updated at: 2023-02-09
 
 applovin.com, b7e49e9107c544d4d6f93b0e90b7db67, DIRECT
 facebook.com, 317888020304763, RESELLER, c3e20eee3f780d68
 facebook.com, 1037588656888577, RESELLER, c3e20eee3f780d68
+google.com, pub-6201798499291567, DIRECT, f08c47fec0942fa0
