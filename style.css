@@ -233,12 +233,14 @@ button{
 
 h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-family:"Helvetica";
+	color:#000000!important;
 }
 .container{
 	max-width:1140px;
 }
 .h1-style{
 	font-size:40px;
+	font-weight:bold;
 }
 .img-1-style{
 	width:123px;
@@ -288,6 +290,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	line-height:16px;
 	width:100%;
 	text-align:center;
+}
+.h4-style{
+	font-weight:bold;
+}
+.logo-style{
+	font-weight:bold;
 }
 
 /* = Colour
