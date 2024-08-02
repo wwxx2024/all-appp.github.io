@@ -253,6 +253,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .sportsparty-hero-app-store{
 	margin-right:20px;
+	background-size:150px auto;
 	background-image:url("img/SportsParty-Hero%20App%20Store.png");
 }
 .btn-style{
@@ -262,6 +263,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	height:0px;
 }
 .sportsparty-hero-steam{
+	background-size:150px auto;
 	background-image:url("img/SportsParty-Hero%20STEAM.png");
 }
 .btn-style-50{
@@ -271,15 +273,19 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	background-image:url("img/SportsParty-Hero%20ICON.png");
 }
 .sportsparty-hero-app-store:hover{
+	background-size:150px auto;
 	background-image:url("img/SportsParty-Hero%20App%20Store.png");
 }
 .sportsparty-hero-app-store:active{
+	background-size:150px auto;
 	background-image:url("img/SportsParty-Hero%20App%20Store.png");
 }
 .sportsparty-hero-steam:hover{
+	background-size:150px auto;
 	background-image:url("img/SportsParty-Hero%20STEAM.png");
 }
 .sportsparty-hero-steam:active{
+	background-size:150px auto;
 	background-image:url("img/SportsParty-Hero%20STEAM.png");
 }
 .team-card{
