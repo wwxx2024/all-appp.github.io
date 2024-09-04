@@ -83,6 +83,19 @@ a:hover{text-decoration: none; cursor:pointer;}
 }
 
 
+/* Background Styles */
+
+.bg-center,.bg-l-edge,.bg-r-edge,.bg-t-edge,.bg-b-edge,.bg-tl-edge,.bg-bl-edge,.bg-tr-edge,.bg-br-edge,.bg-repeat{
+	-webkit-background-size: auto!important;
+	-moz-background-size: auto!important;
+	-o-background-size: auto!important;
+	background-size: auto!important;
+}
+.bg-repeat{
+	background:repeat;
+}
+
+
 /* Background Textures */
 
 .bloc-bg-texture::before{
@@ -126,6 +139,12 @@ a:hover{text-decoration: none; cursor:pointer;}
 .d-bloc .card .btn-wire,.d-bloc .card .btn-wire:hover,.l-bloc .btn-wire,.l-bloc .btn-wire:hover{
 	color:rgba(0,0,0,.7);
 	border-color:rgba(0,0,0,.3);
+}
+
+/* Row Margin Offsets */
+
+.voffset{
+	margin-top:30px;
 }
 
 
@@ -379,6 +398,15 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	   height: 320px;
     }
 }
+
+@media (max-width: 991px){
+	.mt-md-0{
+	}
+	.mt-md-4{
+	}
+	
+}
+
 @media (max-width: 767px){
 	.text-right{
 	}
@@ -396,6 +424,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.link-style{
 		overflow:hidden;
 		text-align:center;
+	}
+	.mt-1{
 	}
 	
 }
